@@ -1,1 +1,21 @@
-# math317-uoregon
+# MATH 317 2020 Winter term - uoregon
+
+1. [Continuity, Derivatives, Integration](https://github.com/missystem/math317-uoregon/blob/master/Jan%206%2C%202020%209_00_24%20AM%20📖%20Continuity.pdf)
+2. [Functional limit laws](https://github.com/missystem/math317-uoregon/blob/master/Jan%208%2C%202020%208_57_53%20AM%20📖%20Functional%20Limit%20Laws.pdf)
+3. [Continuity laws](https://github.com/missystem/math317-uoregon/blob/master/Jan%2010%2C%202020%209_00_45%20AM%20📖%20Continuity.pdf)
+4. [Uniform Continuity](https://github.com/missystem/math317-uoregon/blob/master/Jan%2015%2C%202020%209_00_43%20AM%20📖%20Uniform%20Continuity.pdf)
+5. [Differentiation Laws](https://github.com/missystem/math317-uoregon/blob/master/Jan%2027%2C%202020%209_01_38%20AM%20📖%20Differentiation%20Laws.pdf)
+6. [Chain Rule, Mean Value Theorem, Rolle's Theorem](https://github.com/missystem/math317-uoregon/blob/master/Feb%203%2C%202020📖%20Differentiation_%20Chain%20Rule%2C%20Mean%20Value%20Thm%2C%20Rolle’s%20Thm.pdf)
+7. [Application of Mean Value Theorem, Darboux's Theorem](https://github.com/missystem/math317-uoregon/blob/master/Feb%205%2C%202020%20📖%20Applications%20of%20Mean%20Value%20Thm%2C%20Darboux’s%20Thm.pdf)
+8. [Darboux's Theorem, Generalized Mean Valuee Theorem](https://github.com/missystem/math317-uoregon/blob/master/Feb%207%2C%202020%20📖%20Differentiation_%20Darboux’s%20Thm%2C%20Generalized%20Mean%20Value%20Thm.pdf)
+9. [Partition, Refinement, Uppere Sum and Lower Sum](https://github.com/missystem/math317-uoregon/blob/master/Feb%2010%2C%202020%209_23_18%20AM%20📖%20Integration_%20Partition%2C%20Refinement%2C%20Upper%20Sum%20%26%20Lower%20Sum.pdf)
+10. [Integrable, Upper Integral and Lower Integral](https://github.com/missystem/math317-uoregon/blob/master/Feb%2012%2C%202020%209_04_25%20AM%20📖%20Integrable%2C%20Upper%20Integral%20%26%20Lower%20Integral.pdf)
+11. [Integrable, Measure Zero](https://github.com/missystem/math317-uoregon/blob/master/Feb%2014%2C%202020%209_00_50%20AM%20📖%20Integrable%2C%20Measure%20zero.pdf)
+12. [Properties of the Integral and other theorems](https://github.com/missystem/math317-uoregon/blob/master/Feb%2017%2C%202020%208_59_39%20PM%20📖%20ThmA-E.pdf)
+13. [Fundamental Theorem of Calculus](https://github.com/missystem/math317-uoregon/blob/master/Feb%2019%2C%202020%209_04_09%20AM%20📖%20Fundamental%20Thm%20of%20Calculus%20.pdf)
+14. [Substitution Rule and Integration by Parts](https://github.com/missystem/math317-uoregon/blob/master/Feb%2021%2C%202020%20📖%20Substitution%20Rule%20%26%20Integration%20by%20Parts.pdf)
+15. [Sequences of Functions, Pointwise Convergence, Uniform Convergence](https://github.com/missystem/math317-uoregon/blob/master/Mar%202%2C%202020%20📖%20Sequences%20of%20Functions%2C%20Pointwise%20Convergence%2C%20Uniform%20Convergence%20.pdf)
+16. [Integrable and Partition](https://github.com/missystem/math317-uoregon/blob/master/Mar%204%2C%202020.pdf)
+17. [Cauchy and Convergence Uniformly, n-th Partial Sum, Weierstrass M-test](https://github.com/missystem/math317-uoregon/blob/master/Mar%206%2C%202020%20📖%20.pdf)
+
+[Final Exam](https://github.com/missystem/math317-uoregon/blob/master/final.pdf)
